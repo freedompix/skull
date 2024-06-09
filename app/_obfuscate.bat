@@ -1,0 +1,1 @@
+npx javascript-obfuscator _appbild.js --output appbild.js
